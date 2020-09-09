@@ -1,0 +1,166 @@
+{
+    "name": "CryptoArtNet",
+    "timestamp": "2020-09-08T19:26:29.665Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {
+        "artist": {
+            "name": "Cryptoartist Tokens",
+            "description": "Tokens issued by cryptoartists"
+        },
+        "company": {
+            "name": "Cryptoart Biz Tokens",
+            "description": "Tokens issued by cryptoart companies or projects"
+        }
+    },
+    "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/CryptoArt-Tokens-List-Logo-by-CryptoArtNet.jpg",
+    "keywords": [
+        "art",
+        "artist",
+        "cryptoart",
+        "crypto art",
+        "cryptoartist",
+        "cryptoartists",
+        "crypto artist",
+        "crypto artists",
+        "NFT",
+        "NFTs",
+        "nonfungible tokens"
+    ],
+    "tokens": [{
+            "name": "BloodyPercent",
+            "address": "0xF21D65979bD89b28f05EF19F3c65dd2A1D02946D",
+            "symbol": "BPC",
+            "tags": [
+                "artist"
+            ],
+            "decimals": 4,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/bpc-logo.png"
+        },
+        {
+            "name": "coin_artist",
+            "address": "0x87b008e57f640d94ee44fd893f0323af933f9195",
+            "symbol": "COIN",
+            "tags": [
+                "artist"
+            ],
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/coin_artist-logo.png"
+        },
+        {
+            "name": "Somnium Space Cubes",
+            "address": "0xdf801468a808a32656d2ed2d2d80b72a129739f4",
+            "symbol": "CUBE",
+            "tags": [
+                "company"
+            ],
+            "decimals": 8,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/somnium-space-cubes-logo.png"
+        },
+        {
+            "name": "Hue",
+            "address": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
+            "symbol": "HUE",
+            "tags": [
+                "artist"
+            ],
+            "decimals": 4,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/hue-logo.png"
+        },
+        {
+            "name": "Decentraland MANA",
+            "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+            "symbol": "MANA",
+            "tags": [
+                "company"
+            ],
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/mana-logo.png"
+        },
+        {
+            "name": "Marblecoin",
+            "address": "0x8888889213DD4dA823EbDD1e235b09590633C150",
+            "symbol": "MBC",
+            "tags": [
+                "company"
+            ],
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/mbc-logo.png"
+        },
+        {
+            "name": "Mork",
+            "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
+            "symbol": "MORK",
+            "tags": [
+                "artist"
+            ],
+            "decimals": 4,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/mork-logo.png"
+        },
+        {
+            "name": "Rarible",
+            "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+            "symbol": "RARI",
+            "tags": [
+                "company"
+            ],
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/rari-logo.png"
+        },
+        {
+            "name": "Skull",
+            "address": "0xbcc66ed2ab491e9ae7bf8386541fb17421fa9d35",
+            "symbol": "SKULL",
+            "tags": [
+                "artist"
+            ],
+            "decimals": 4,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/skull-logo.png"
+        },
+        {
+            "name": "WGM",
+            "address": "0x219803d17f3067eb53d521ba8948d2734f402f7d",
+            "symbol": "WGM",
+            "tags": [
+                "company"
+            ],
+            "decimals": 4,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/wgm-logo.png"
+        },
+        {
+            "name": "WHALE",
+            "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+            "symbol": "WHALE",
+            "tags": [
+                "company"
+            ],
+            "decimals": 4,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/whale-logo.png"
+        },
+        {
+            "name": "Yumi",
+            "address": "0x25859743ED0861665611B81E47682e889b48313B",
+            "symbol": "YUMI",
+            "tags": [
+                "artist"
+            ],
+            "decimals": 4,
+            "chainId": 1,
+            "logoURI": "https://www.cryptoartnet.com/wp-content/uploads/2020/09/yumi-logo.png"
+        }
+    ]
+}
